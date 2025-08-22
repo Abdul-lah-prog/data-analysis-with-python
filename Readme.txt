@@ -1,8 +1,8 @@
-#📊 Data Analysis with Python
+# 📊 Data Analysis with Python
 
 This repository contains my work from the Data Analysis with Python course. The project demonstrates how to explore, analyze, and visualize data using Python and popular libraries.
 
-##🔹 Key Topics Covered
+## 🔹 Key Topics Covered
 
 Data cleaning and preprocessing with Pandas and NumPy
 
@@ -16,7 +16,7 @@ Building and evaluating regression models with Scikit-Learn
 
 Cross-validation, polynomial regression, and model performance metrics (R², MSE)
 
-##🔹 Tools & Libraries
+## 🔹 Tools & Libraries
 
 Python (3.x)
 
@@ -26,7 +26,7 @@ Matplotlib, Seaborn
 
 Scikit-Learn
 
-##🔹 Outcomes
+## 🔹 Outcomes
 
 Through this project, I:
 
@@ -37,4 +37,5 @@ Understood how to select, preprocess, and transform data for analysis
 Learned to apply regression techniques and evaluate models effectively
 
 Developed confidence in using Python for data-driven decision making
+
 
